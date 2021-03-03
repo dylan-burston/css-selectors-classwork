@@ -1,0 +1,32 @@
+body {
+    font-family: "Lucida Grande";
+    margin: 15px;
+}
+  
+h1, h2 {
+    text-align: center; 
+}
+
+div {
+      color: blue; 
+  }
+
+#comments-title {
+      font-size: 28px;
+  }
+
+#comments-title::first-letter {
+    font-size: 60px;
+}
+
+li.super-cool {
+    border: 2px solid red;
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+
+
+  
